@@ -68,5 +68,6 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 
-Written by Kaede
-skip ci
+Written by Kaede  
+skip ci  
+pull request
